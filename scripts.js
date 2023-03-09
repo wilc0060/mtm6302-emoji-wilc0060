@@ -14,3 +14,4 @@ const list = `
 
 const $list = document.getElementById('emoji')
 $list.innerHTML = $list.innnerHTML + list
+
